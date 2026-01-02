@@ -72,14 +72,3 @@ Este proyecto está validado en ejecución real y documentado para ser enseñado
 
 ---
 
-## 👨‍🏫 Autor y comunidad
-
-**Autor:** José Garagorry  
-**LinkedIn:** [linkedin.com/in/jgaragorry](https://linkedin.com/in/jgaragorry)  
-**GitHub:** [github.com/jgaragorry](https://github.com/jgaragorry)  
-**TikTok:** [@stclatam](https://www.tiktok.com/@softtraincorp)  
-**Instagram:** [@stclatam](https://www.instagram.com/stclatam)  
-**WhatsApp Comunidad:** [Únete aquí](https://chat.whatsapp.com/ENuRMnZ38fv1pk0mHlSixa)
-
----
-
